@@ -1,0 +1,326 @@
+{
+  "families": [
+    {
+      "family": "live_ball_with_steal",
+      "events": 6844,
+      "matches": 1929,
+      "agreement": 0.28185271770894216,
+      "wilson_low": 0.2713185149415991,
+      "wilson_high": 0.2926316702435825
+    },
+    {
+      "family": "offensive_foul",
+      "events": 1716,
+      "matches": 715,
+      "agreement": 0.4166666666666667,
+      "wilson_low": 0.3935520178952374,
+      "wilson_high": 0.44015358413385197
+    }
+  ],
+  "subtypes": [
+    {
+      "subtype": "Bad Pass",
+      "events": 4256,
+      "matches": 683,
+      "agreement": 0.16047932330827067,
+      "wilson_low": 0.14975883489839523,
+      "wilson_high": 0.17181216065690044
+    },
+    {
+      "subtype": "Lost Ball",
+      "events": 2588,
+      "matches": 1246,
+      "agreement": 0.4814528593508501,
+      "wilson_low": 0.4622443240496699,
+      "wilson_high": 0.5007163733829267
+    },
+    {
+      "subtype": "Offensive Foul Turnover",
+      "events": 1716,
+      "matches": 715,
+      "agreement": 0.4166666666666667,
+      "wilson_low": 0.3935520178952374,
+      "wilson_high": 0.44015358413385197
+    }
+  ],
+  "screening_summary": {
+    "prior_steals": {
+      "precision": 0.6338028169014085,
+      "hits": 90,
+      "selected": 142,
+      "test_pairs": 562,
+      "mean_next_steals_per100": 2.1613353957416406,
+      "mean_next_feed_foul_rate": 1.6367948699653083,
+      "brier": null
+    },
+    "logit_steals": {
+      "precision": 0.6338028169014085,
+      "hits": 90,
+      "selected": 142,
+      "test_pairs": 562,
+      "mean_next_steals_per100": 2.1613353957416406,
+      "mean_next_feed_foul_rate": 1.6367948699653083,
+      "brier": 0.123763774144842
+    },
+    "logit_steals_fouls": {
+      "precision": 0.6408450704225352,
+      "hits": 91,
+      "selected": 142,
+      "test_pairs": 562,
+      "mean_next_steals_per100": 2.1721382626972194,
+      "mean_next_feed_foul_rate": 1.5659204385135717,
+      "brier": 0.12703523799043998
+    },
+    "logit_plus_components": {
+      "precision": 0.6197183098591549,
+      "hits": 88,
+      "selected": 142,
+      "test_pairs": 562,
+      "mean_next_steals_per100": 2.157483033680391,
+      "mean_next_feed_foul_rate": 1.5525241664359666,
+      "brier": 0.12760693875056248
+    }
+  },
+  "folds": [
+    {
+      "transition": "2019-2020",
+      "model": "prior_steals",
+      "train_pairs": 246,
+      "test_pairs": 119,
+      "quota": 30,
+      "hits": 19,
+      "precision": 0.6333333333333333,
+      "mean_next_steals_per100": 2.069111807783216,
+      "mean_next_feed_foul_rate": 1.6433282249284737,
+      "brier": null
+    },
+    {
+      "transition": "2019-2020",
+      "model": "logit_steals",
+      "train_pairs": 246,
+      "test_pairs": 119,
+      "quota": 30,
+      "hits": 19,
+      "precision": 0.6333333333333333,
+      "mean_next_steals_per100": 2.069111807783216,
+      "mean_next_feed_foul_rate": 1.6433282249284737,
+      "brier": 0.11520395607692514
+    },
+    {
+      "transition": "2019-2020",
+      "model": "logit_steals_fouls",
+      "train_pairs": 246,
+      "test_pairs": 119,
+      "quota": 30,
+      "hits": 18,
+      "precision": 0.6,
+      "mean_next_steals_per100": 2.0600543533894826,
+      "mean_next_feed_foul_rate": 1.402647625257093,
+      "brier": 0.11959710424719547
+    },
+    {
+      "transition": "2019-2020",
+      "model": "logit_plus_components",
+      "train_pairs": 246,
+      "test_pairs": 119,
+      "quota": 30,
+      "hits": 19,
+      "precision": 0.6333333333333333,
+      "mean_next_steals_per100": 2.0990836612829917,
+      "mean_next_feed_foul_rate": 1.4078383060037338,
+      "brier": 0.11835115469390523
+    },
+    {
+      "transition": "2020-2021",
+      "model": "prior_steals",
+      "train_pairs": 365,
+      "test_pairs": 122,
+      "quota": 31,
+      "hits": 20,
+      "precision": 0.6451612903225806,
+      "mean_next_steals_per100": 2.0787596948855085,
+      "mean_next_feed_foul_rate": 1.7076627826523223,
+      "brier": null
+    },
+    {
+      "transition": "2020-2021",
+      "model": "logit_steals",
+      "train_pairs": 365,
+      "test_pairs": 122,
+      "quota": 31,
+      "hits": 20,
+      "precision": 0.6451612903225806,
+      "mean_next_steals_per100": 2.0787596948855085,
+      "mean_next_feed_foul_rate": 1.7076627826523223,
+      "brier": 0.12293646939614598
+    },
+    {
+      "transition": "2020-2021",
+      "model": "logit_steals_fouls",
+      "train_pairs": 365,
+      "test_pairs": 122,
+      "quota": 31,
+      "hits": 20,
+      "precision": 0.6451612903225806,
+      "mean_next_steals_per100": 2.067965154490833,
+      "mean_next_feed_foul_rate": 1.6518278571472143,
+      "brier": 0.13145421751258118
+    },
+    {
+      "transition": "2020-2021",
+      "model": "logit_plus_components",
+      "train_pairs": 365,
+      "test_pairs": 122,
+      "quota": 31,
+      "hits": 19,
+      "precision": 0.6129032258064516,
+      "mean_next_steals_per100": 2.0505469388449615,
+      "mean_next_feed_foul_rate": 1.6157432004226384,
+      "brier": 0.1306667256319098
+    },
+    {
+      "transition": "2021-2022",
+      "model": "prior_steals",
+      "train_pairs": 487,
+      "test_pairs": 107,
+      "quota": 27,
+      "hits": 21,
+      "precision": 0.7777777777777778,
+      "mean_next_steals_per100": 2.159395889318962,
+      "mean_next_feed_foul_rate": 1.7405392125080295,
+      "brier": null
+    },
+    {
+      "transition": "2021-2022",
+      "model": "logit_steals",
+      "train_pairs": 487,
+      "test_pairs": 107,
+      "quota": 27,
+      "hits": 21,
+      "precision": 0.7777777777777778,
+      "mean_next_steals_per100": 2.159395889318962,
+      "mean_next_feed_foul_rate": 1.7405392125080295,
+      "brier": 0.09207861625653053
+    },
+    {
+      "transition": "2021-2022",
+      "model": "logit_steals_fouls",
+      "train_pairs": 487,
+      "test_pairs": 107,
+      "quota": 27,
+      "hits": 21,
+      "precision": 0.7777777777777778,
+      "mean_next_steals_per100": 2.163239217837481,
+      "mean_next_feed_foul_rate": 1.7243708647799136,
+      "brier": 0.08865814346418273
+    },
+    {
+      "transition": "2021-2022",
+      "model": "logit_plus_components",
+      "train_pairs": 487,
+      "test_pairs": 107,
+      "quota": 27,
+      "hits": 19,
+      "precision": 0.7037037037037037,
+      "mean_next_steals_per100": 2.0932950004417465,
+      "mean_next_feed_foul_rate": 1.6979097579719782,
+      "brier": 0.09375151667354671
+    },
+    {
+      "transition": "2022-2023",
+      "model": "prior_steals",
+      "train_pairs": 594,
+      "test_pairs": 116,
+      "quota": 29,
+      "hits": 14,
+      "precision": 0.4827586206896552,
+      "mean_next_steals_per100": 2.0795450055144347,
+      "mean_next_feed_foul_rate": 1.4682665473260343,
+      "brier": null
+    },
+    {
+      "transition": "2022-2023",
+      "model": "logit_steals",
+      "train_pairs": 594,
+      "test_pairs": 116,
+      "quota": 29,
+      "hits": 14,
+      "precision": 0.4827586206896552,
+      "mean_next_steals_per100": 2.0795450055144347,
+      "mean_next_feed_foul_rate": 1.4682665473260343,
+      "brier": 0.16840691425634866
+    },
+    {
+      "transition": "2022-2023",
+      "model": "logit_steals_fouls",
+      "train_pairs": 594,
+      "test_pairs": 116,
+      "quota": 29,
+      "hits": 15,
+      "precision": 0.5172413793103449,
+      "mean_next_steals_per100": 2.108006655480748,
+      "mean_next_feed_foul_rate": 1.4540391564713184,
+      "brier": 0.17398576127742063
+    },
+    {
+      "transition": "2022-2023",
+      "model": "logit_plus_components",
+      "train_pairs": 594,
+      "test_pairs": 116,
+      "quota": 29,
+      "hits": 14,
+      "precision": 0.4827586206896552,
+      "mean_next_steals_per100": 2.0796113726363323,
+      "mean_next_feed_foul_rate": 1.4462834042250068,
+      "brier": 0.17408184623545583
+    },
+    {
+      "transition": "2023-2024",
+      "model": "prior_steals",
+      "train_pairs": 710,
+      "test_pairs": 98,
+      "quota": 25,
+      "hits": 16,
+      "precision": 0.64,
+      "mean_next_steals_per100": 2.471369089953404,
+      "mean_next_feed_foul_rate": 1.6245275965930306,
+      "brier": null
+    },
+    {
+      "transition": "2023-2024",
+      "model": "logit_steals",
+      "train_pairs": 710,
+      "test_pairs": 98,
+      "quota": 25,
+      "hits": 16,
+      "precision": 0.64,
+      "mean_next_steals_per100": 2.471369089953404,
+      "mean_next_feed_foul_rate": 1.6245275965930306,
+      "brier": 0.11693986772175613
+    },
+    {
+      "transition": "2023-2024",
+      "model": "logit_steals_fouls",
+      "train_pairs": 710,
+      "test_pairs": 98,
+      "quota": 25,
+      "hits": 17,
+      "precision": 0.68,
+      "mean_next_steals_per100": 2.5198172408620483,
+      "mean_next_feed_foul_rate": 1.6139784421169936,
+      "brier": 0.11689351173293641
+    },
+    {
+      "transition": "2023-2024",
+      "model": "logit_plus_components",
+      "train_pairs": 710,
+      "test_pairs": 98,
+      "quota": 25,
+      "hits": 17,
+      "precision": 0.68,
+      "mean_next_steals_per100": 2.5198172408620483,
+      "mean_next_feed_foul_rate": 1.6139784421169936,
+      "brier": 0.11699046117108171
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "files": [
+    {
+      "path": "data/raw/matchups_2017.csv",
+      "bytes": 56315298,
+      "sha256": "cf9b7e0fb17b0b7ade8afc1fc04d01145ffca974c8d683160cbe36639449b528"
+    },
+    {
+      "path": "data/raw/matchups_2018.csv",
+      "bytes": 56848081,
+      "sha256": "33e6e497ccc22f388ab21b182ecb14e7743a0fe1bd7cb21be46b61e99e0affc4"
+    },
+    {
+      "path": "data/raw/matchups_2019.csv",
+      "bytes": 44532350,
+      "sha256": "6dc56590a5e2ba1010cd02ea7239b1045079a2333a121271fd41b527b0d4e580"
+    },
+    {
+      "path": "data/raw/matchups_2020.csv",
+      "bytes": 49457814,
+      "sha256": "64c1b99ffeb486f13f298573c2fdc147b782f0856b9846bcaf30af24b3c4dfe8"
+    },
+    {
+      "path": "data/raw/matchups_2021.csv",
+      "bytes": 56337636,
+      "sha256": "a675ae12f9dab1be3f93e5a150ce3f4601bb34f7eed901872ab272a28a831a4a"
+    },
+    {
+      "path": "data/raw/matchups_2022.csv",
+      "bytes": 56124464,
+      "sha256": "2b9bf2c302733998086a0c3b8c3c98f1df1ec8e45da15c304ca1925246cd70c7"
+    },
+    {
+      "path": "data/raw/matchups_2023.csv",
+      "bytes": 56686892,
+      "sha256": "138017e1a97782affbc5da0acffeb89a3da1d3408c447a9114068f6096f3fe31"
+    },
+    {
+      "path": "data/raw/matchups_2024.csv",
+      "bytes": 56970333,
+      "sha256": "a9729109de7744821a31fea6ce87cd880500d2e34b155aa6070f016936655446"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2017.tar.xz",
+      "bytes": 8361064,
+      "sha256": "efd8c7139acb737ebdc76e0b98b118cb6152caffc0077cf2c7b6ef25a580e50f"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2018.tar.xz",
+      "bytes": 8705484,
+      "sha256": "b5416e7d270011970e7934de0cabb41cf75c16f48b34c2b035e1a96760faa407"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2019.tar.xz",
+      "bytes": 7504672,
+      "sha256": "06c53b6e42be2698dbbf550260f46f9ca51ad495fb8e9964a0c24473a3fe7064"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2020.tar.xz",
+      "bytes": 7493576,
+      "sha256": "40a1126ecf66c4068c994d9a207040d0a62e40bd4634949f9b199b86bf5e79af"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2021.tar.xz",
+      "bytes": 8575520,
+      "sha256": "549915410733f799f61ff54c18b69185138f61f462b9f82b8c17dd5777de3780"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2022.tar.xz",
+      "bytes": 8551312,
+      "sha256": "46fead1357db9d1e56ed8158c820fe8e65e12c444151448c4e225889296629d0"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2023.tar.xz",
+      "bytes": 8480776,
+      "sha256": "ec0029c0d45a90b769d173010f60b73c6c8866acf1d4d914a72476373ce3a913"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastats_2024.tar.xz",
+      "bytes": 8583784,
+      "sha256": "8f370da00ad0a6d4157921bd161d56ea32647a165d906516f2b36384a6a4989a"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastatsv3_2023.tar.xz",
+      "bytes": 8622472,
+      "sha256": "3a6976219b87fb50cecf8b2c54cb2af110f2f013ed8368d694035806802c8b04"
+    },
+    {
+      "path": "external/nba_data/datasets/cdnnba_2023.tar.xz",
+      "bytes": 18598380,
+      "sha256": "33d49fefc809f73d5d6cbad6d1d6690e0df6c89fe2b5a4d814ecc9ea4df6101b"
+    },
+    {
+      "path": "external/nba_data/datasets/matchups_2023.tar.xz",
+      "bytes": 3982516,
+      "sha256": "c91a1dad0d7649b38eb885455291c63139675e52eeda75c0b6269e4bc64aa52e"
+    },
+    {
+      "path": "external/nba_data/datasets/nbastatsv3_2024.tar.xz",
+      "bytes": 8781060,
+      "sha256": "38fb8bfb43be8db3d47576600f32f25d89cc3cc05ebac77a51f4db42faf0b841"
+    },
+    {
+      "path": "external/nba_data/datasets/cdnnba_2024.tar.xz",
+      "bytes": 18886652,
+      "sha256": "35a82e6b29821adb22b8474dea8c51e08847d8e00690d1d5ffde7d000e0087d1"
+    },
+    {
+      "path": "external/nba_data/datasets/matchups_2024.tar.xz",
+      "bytes": 4013596,
+      "sha256": "a83b80a597533a503b7cc35d859827d67e3a9ff064242e7d2da2955c1e911f35"
+    }
+  ],
+  "upstream": "https://github.com/shufinskiy/nba_data",
+  "retrieval_status": "all inputs retrieved and hash-verified from pinned public commit",
+  "commit": "e829d4678be1e075f99e5d41a1c5f97089be446b"
+}

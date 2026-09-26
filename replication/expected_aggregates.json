@@ -1,0 +1,51 @@
+{
+  "assignment": {
+    "events": 8560,
+    "matches": 2644,
+    "match_rate": 0.3088785046728972,
+    "wilson_95_low": 0.2991783192620072,
+    "wilson_95_high": 0.3187501517740008
+  },
+  "reconciliation": {
+    "2023": {
+      "common_games": 1227,
+      "relative_total_difference": 0.004989263609953265,
+      "exact_involved_player_game_share": 0.6850334605040965
+    },
+    "2024": {
+      "common_games": 1229,
+      "relative_total_difference": -0.01400939985538684,
+      "exact_involved_player_game_share": 0.6821220223626641
+    }
+  },
+  "persistence": 0.5921658620199006,
+  "headline": {
+    "pairs": 808,
+    "unique_defenders": 426,
+    "baseline_precision": 0.2634146341463415,
+    "proposed_precision": 0.4146341463414634,
+    "simple_precision": 0.6487804878048781,
+    "precision_advantage_ci95": [
+      0.06190476190476191,
+      0.23557692307692307
+    ],
+    "fractional_ci95": [
+      0.06190476190476191,
+      0.23425714152352484
+    ]
+  },
+  "construct": {
+    "raw_pressure": {
+      "vs_steals_given_shot_volume": 0.21037253407693277,
+      "vs_steals_per100": 0.10025021623635308,
+      "vs_blocks_given_shot_volume": 0.13171298649586918,
+      "vs_blocks_per100": 0.4623804482658326
+    },
+    "turnover_contrast": {
+      "vs_steals_given_shot_volume": 0.39481483006652696,
+      "vs_steals_per100": 0.4046135576218279,
+      "vs_blocks_given_shot_volume": -0.04598866418524577,
+      "vs_blocks_per100": -0.28798630099982686
+    }
+  }
+}

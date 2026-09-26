@@ -1,0 +1,26 @@
+{
+  "scope": "portable headline, subtype and Appendix D screening-pilot computation",
+  "files": {
+    "README.md": "1a34e20d53fbce60a0d8470ebe4a7f5d789d244401e9fad462985067ec23c64c",
+    "THIRD_PARTY_NOTICES.md": "e725b397a051f00b7a7072443b78c4e87ca9a1d7c561803ae03a3fcc5e30d506",
+    "data_manifest.json": "5de15e04bf6bf0d60518fafefed5617d48298a078c016c06a531b7db95e328bd",
+    "expected_aggregates.json": "cf56b9808babb3bbe4ac31c4af25418b7f3c9ceca139e2b6cc1869008fbf4caa",
+    "fetch_data.py": "99a97ce76cb7d13bb3e9eee7b07eca9f3859d112334441b38297310ef33d3fa3",
+    "licenses/nba_data_APACHE_2_0.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "pilot/expected_results.json": "01b36f6c8c2ff1831c56d545b0103e2a9d9a1124f049e74d86d95a269e222775",
+    "requirements.txt": "22567014f16451e878aef4a21fef16496be32872a991cb402008b68a717336f1",
+    "run.py": "a857098ed50502271b3a0e43849bda91a392d1d4c20ac368498fd772d82d40de",
+    "src/audit_historical_structured_credit.py": "717d922db59ee2676469f4dec3b8a02bb9936ff2179ab22c46f8886aebe0d142",
+    "src/audit_measurement.py": "6b4f79a97f4b965a4eef077ec6c4dd4c966ff2b6cd359bc8bc92ee0b63a29564",
+    "src/audit_sloan_v6_inference.py": "069c110f2fba557d72e46cea8f8721999c35bdb1a6bd666bf4061dbed79d35c4",
+    "src/bound_receiver_partial_identification.py": "849d87dfeeedeb6facbd0f6d257d77f26aa90db1e1347743a6295b23607ca8c6",
+    "src/build_external_defender_events.py": "24003aa3af6c4c83821d4e1bac151468279cb835f97264a8b640e004f0c56511",
+    "src/build_matchup_panel.py": "e3d8548b9e09bd69013fcfd576a555de92b912fe64b7849890a552156d195fe9",
+    "src/fit_empirical_dynamic_model.py": "9d7a6368446a58f77f4c7f1dc56b15ce454687507c6859e8af3cc3d40d803ad7",
+    "src/screening_pilot.py": "566e859e110a02f26e5596f1ca2915904ab10504246f0254b1080a7d95e74ce9",
+    "src/simulate_joint_model.py": "2b6e29eac0e861b413e519d74bff66ae3fde3806ae8edf194ea7550912390523",
+    "src/validate_defender_pressure.py": "50f06b96dfb2fc2e0ada99dfc91cb3824c8a4746dc9ed7db818d954c6ff7c9bb",
+    "src/validate_external_construct.py": "ba7b415d250b062ff52e2c72b86a7c3453fb00ffcead5f2672b6e03d558fddae",
+    "upstream_manifest.json": "0888c047998320c53313998f526b5f703996026fe364f5c07fe8ecd5ae83c4bc"
+  }
+}

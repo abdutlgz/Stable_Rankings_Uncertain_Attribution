@@ -1,0 +1,702 @@
+{
+  "audit_n": {
+    "value": 8560,
+    "format": ","
+  },
+  "match_n": {
+    "value": 2644,
+    "format": ","
+  },
+  "match_rate": {
+    "value": 0.3088785046728972,
+    "format": ".1%"
+  },
+  "match_low": {
+    "value": 0.2991783192620072,
+    "format": ".1%"
+  },
+  "match_high": {
+    "value": 0.3187501517740008,
+    "format": ".1%"
+  },
+  "contributor_present": {
+    "value": 0.9816588785046729,
+    "format": ".1%"
+  },
+  "total_diff_2023": {
+    "value": 0.004989263609953265,
+    "format": "+.1%"
+  },
+  "player_game_2023": {
+    "value": 0.6850334605040965,
+    "format": ".1%"
+  },
+  "games_2023": {
+    "value": 1227,
+    "format": ","
+  },
+  "total_diff_2024": {
+    "value": -0.01400939985538684,
+    "format": "+.1%"
+  },
+  "player_game_2024": {
+    "value": 0.6821220223626641,
+    "format": ".1%"
+  },
+  "games_2024": {
+    "value": 1229,
+    "format": ","
+  },
+  "persistence": {
+    "value": 0.5921658620199006,
+    "format": ".3f"
+  },
+  "construct_n": {
+    "value": 3367,
+    "format": ","
+  },
+  "raw_steals": {
+    "value": 0.10025021623635308,
+    "format": ".3f"
+  },
+  "raw_steals_adjusted": {
+    "value": 0.21037253407693277,
+    "format": ".3f"
+  },
+  "raw_blocks": {
+    "value": 0.4623804482658326,
+    "format": ".3f"
+  },
+  "raw_blocks_adjusted": {
+    "value": 0.13171298649586918,
+    "format": ".3f"
+  },
+  "contrast_steals": {
+    "value": 0.4046135576218279,
+    "format": ".3f"
+  },
+  "contrast_steals_adjusted": {
+    "value": 0.39481483006652696,
+    "format": ".3f"
+  },
+  "contrast_blocks": {
+    "value": -0.28798630099982686,
+    "format": ".3f"
+  },
+  "contrast_blocks_adjusted": {
+    "value": -0.04598866418524577,
+    "format": ".3f"
+  },
+  "screen_n": {
+    "value": 808,
+    "format": ","
+  },
+  "screen_bootstrap_n": {
+    "value": 2000,
+    "format": ","
+  },
+  "contrast_precision": {
+    "value": 0.4146341463414634,
+    "format": ".1%"
+  },
+  "raw_precision": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "precision_gain_pp": {
+    "value": 0.15121951219512192,
+    "format": "pp"
+  },
+  "precision_gain_low_pp": {
+    "value": 0.06190476190476191,
+    "format": "pp"
+  },
+  "precision_gain_high_pp": {
+    "value": 0.23557692307692307,
+    "format": "pp"
+  },
+  "unique_defenders": {
+    "value": 426,
+    "format": ","
+  },
+  "fractional_low_pp": {
+    "value": 0.06190476190476191,
+    "format": "pp"
+  },
+  "fractional_high_pp": {
+    "value": 0.23425714152352484,
+    "format": "pp"
+  },
+  "random_precision": {
+    "value": 0.25373158981875304,
+    "format": ".1%"
+  },
+  "steals_precision": {
+    "value": 0.6487804878048781,
+    "format": ".1%"
+  },
+  "sensitivity_baseline_rate": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "sensitivity_baseline_contrast": {
+    "value": 0.4146341463414634,
+    "format": ".1%"
+  },
+  "sensitivity_defender_half_rate": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "sensitivity_defender_half_contrast": {
+    "value": 0.424390243902439,
+    "format": ".1%"
+  },
+  "sensitivity_defender_double_rate": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "sensitivity_defender_double_contrast": {
+    "value": 0.4097560975609756,
+    "format": ".1%"
+  },
+  "sensitivity_team_half_rate": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "sensitivity_team_half_contrast": {
+    "value": 0.40487804878048783,
+    "format": ".1%"
+  },
+  "sensitivity_team_double_rate": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "sensitivity_team_double_contrast": {
+    "value": 0.4292682926829268,
+    "format": ".1%"
+  },
+  "sensitivity_rate_half_rate": {
+    "value": 0.25853658536585367,
+    "format": ".1%"
+  },
+  "sensitivity_rate_half_contrast": {
+    "value": 0.4146341463414634,
+    "format": ".1%"
+  },
+  "sensitivity_rate_double_rate": {
+    "value": 0.2634146341463415,
+    "format": ".1%"
+  },
+  "sensitivity_rate_double_contrast": {
+    "value": 0.4146341463414634,
+    "format": ".1%"
+  },
+  "sensitivity_without_team_rate": {
+    "value": 0.2926829268292683,
+    "format": ".1%"
+  },
+  "sensitivity_without_team_contrast": {
+    "value": 0.4146341463414634,
+    "format": ".1%"
+  },
+  "exposure_adjusted_rate_steals": {
+    "value": 0.10897777543540621,
+    "format": ".3f"
+  },
+  "exposure_adjusted_rate_steals_per100": {
+    "value": 0.10900740463070782,
+    "format": ".3f"
+  },
+  "exposure_contrast_steals": {
+    "value": 0.3989804132540148,
+    "format": ".3f"
+  },
+  "exposure_contrast_steals_per100": {
+    "value": 0.40686483683120145,
+    "format": ".3f"
+  },
+  "count_precision_adjusted_rate": {
+    "value": 0.14634146341463414,
+    "format": ".1%"
+  },
+  "count_precision_contrast": {
+    "value": 0.4195121951219512,
+    "format": ".1%"
+  },
+  "count_precision_prior_steal_count": {
+    "value": 0.6048780487804878,
+    "format": ".1%"
+  },
+  "subtype_bad_pass_events": {
+    "value": 4256,
+    "format": ","
+  },
+  "subtype_bad_pass_matches": {
+    "value": 683,
+    "format": ","
+  },
+  "subtype_bad_pass_agreement": {
+    "value": 0.16047932330827067,
+    "format": ".1%"
+  },
+  "subtype_bad_pass_wilson_low": {
+    "value": 0.14975883489839523,
+    "format": ".1%"
+  },
+  "subtype_bad_pass_wilson_high": {
+    "value": 0.17181216065690044,
+    "format": ".1%"
+  },
+  "subtype_lost_ball_events": {
+    "value": 2588,
+    "format": ","
+  },
+  "subtype_lost_ball_matches": {
+    "value": 1246,
+    "format": ","
+  },
+  "subtype_lost_ball_agreement": {
+    "value": 0.4814528593508501,
+    "format": ".1%"
+  },
+  "subtype_lost_ball_wilson_low": {
+    "value": 0.4622443240496699,
+    "format": ".1%"
+  },
+  "subtype_lost_ball_wilson_high": {
+    "value": 0.5007163733829267,
+    "format": ".1%"
+  },
+  "subtype_offensive_foul_events": {
+    "value": 1716,
+    "format": ","
+  },
+  "subtype_offensive_foul_matches": {
+    "value": 715,
+    "format": ","
+  },
+  "subtype_offensive_foul_agreement": {
+    "value": 0.4166666666666667,
+    "format": ".1%"
+  },
+  "subtype_offensive_foul_wilson_low": {
+    "value": 0.3935520178952374,
+    "format": ".1%"
+  },
+  "subtype_offensive_foul_wilson_high": {
+    "value": 0.44015358413385197,
+    "format": ".1%"
+  },
+  "pilot_prior_steals_hits": {
+    "value": 90,
+    "format": ","
+  },
+  "pilot_prior_steals_selected": {
+    "value": 142,
+    "format": ","
+  },
+  "pilot_prior_steals_test_pairs": {
+    "value": 562,
+    "format": ","
+  },
+  "pilot_prior_steals_precision": {
+    "value": 0.6338028169014085,
+    "format": ".1%"
+  },
+  "pilot_prior_steals_mean_next_feed_foul_rate": {
+    "value": 1.6367948699653083,
+    "format": ".3f"
+  },
+  "pilot_logit_steals_hits": {
+    "value": 90,
+    "format": ","
+  },
+  "pilot_logit_steals_selected": {
+    "value": 142,
+    "format": ","
+  },
+  "pilot_logit_steals_test_pairs": {
+    "value": 562,
+    "format": ","
+  },
+  "pilot_logit_steals_precision": {
+    "value": 0.6338028169014085,
+    "format": ".1%"
+  },
+  "pilot_logit_steals_mean_next_feed_foul_rate": {
+    "value": 1.6367948699653083,
+    "format": ".3f"
+  },
+  "pilot_logit_steals_brier": {
+    "value": 0.123763774144842,
+    "format": ".4f"
+  },
+  "pilot_logit_steals_fouls_hits": {
+    "value": 91,
+    "format": ","
+  },
+  "pilot_logit_steals_fouls_selected": {
+    "value": 142,
+    "format": ","
+  },
+  "pilot_logit_steals_fouls_test_pairs": {
+    "value": 562,
+    "format": ","
+  },
+  "pilot_logit_steals_fouls_precision": {
+    "value": 0.6408450704225352,
+    "format": ".1%"
+  },
+  "pilot_logit_steals_fouls_mean_next_feed_foul_rate": {
+    "value": 1.5659204385135717,
+    "format": ".3f"
+  },
+  "pilot_logit_steals_fouls_brier": {
+    "value": 0.12703523799043998,
+    "format": ".4f"
+  },
+  "pilot_logit_plus_components_hits": {
+    "value": 88,
+    "format": ","
+  },
+  "pilot_logit_plus_components_selected": {
+    "value": 142,
+    "format": ","
+  },
+  "pilot_logit_plus_components_test_pairs": {
+    "value": 562,
+    "format": ","
+  },
+  "pilot_logit_plus_components_precision": {
+    "value": 0.6197183098591549,
+    "format": ".1%"
+  },
+  "pilot_logit_plus_components_mean_next_feed_foul_rate": {
+    "value": 1.5525241664359666,
+    "format": ".3f"
+  },
+  "pilot_logit_plus_components_brier": {
+    "value": 0.12760693875056248,
+    "format": ".4f"
+  },
+  "pilot_fold_0_quota": {
+    "value": 30,
+    "format": ","
+  },
+  "pilot_fold_0_hits": {
+    "value": 19,
+    "format": ","
+  },
+  "pilot_fold_0_train_pairs": {
+    "value": 246,
+    "format": ","
+  },
+  "pilot_fold_0_test_pairs": {
+    "value": 119,
+    "format": ","
+  },
+  "pilot_fold_1_quota": {
+    "value": 30,
+    "format": ","
+  },
+  "pilot_fold_1_hits": {
+    "value": 19,
+    "format": ","
+  },
+  "pilot_fold_1_train_pairs": {
+    "value": 246,
+    "format": ","
+  },
+  "pilot_fold_1_test_pairs": {
+    "value": 119,
+    "format": ","
+  },
+  "pilot_fold_2_quota": {
+    "value": 30,
+    "format": ","
+  },
+  "pilot_fold_2_hits": {
+    "value": 18,
+    "format": ","
+  },
+  "pilot_fold_2_train_pairs": {
+    "value": 246,
+    "format": ","
+  },
+  "pilot_fold_2_test_pairs": {
+    "value": 119,
+    "format": ","
+  },
+  "pilot_fold_3_quota": {
+    "value": 30,
+    "format": ","
+  },
+  "pilot_fold_3_hits": {
+    "value": 19,
+    "format": ","
+  },
+  "pilot_fold_3_train_pairs": {
+    "value": 246,
+    "format": ","
+  },
+  "pilot_fold_3_test_pairs": {
+    "value": 119,
+    "format": ","
+  },
+  "pilot_fold_4_quota": {
+    "value": 31,
+    "format": ","
+  },
+  "pilot_fold_4_hits": {
+    "value": 20,
+    "format": ","
+  },
+  "pilot_fold_4_train_pairs": {
+    "value": 365,
+    "format": ","
+  },
+  "pilot_fold_4_test_pairs": {
+    "value": 122,
+    "format": ","
+  },
+  "pilot_fold_5_quota": {
+    "value": 31,
+    "format": ","
+  },
+  "pilot_fold_5_hits": {
+    "value": 20,
+    "format": ","
+  },
+  "pilot_fold_5_train_pairs": {
+    "value": 365,
+    "format": ","
+  },
+  "pilot_fold_5_test_pairs": {
+    "value": 122,
+    "format": ","
+  },
+  "pilot_fold_6_quota": {
+    "value": 31,
+    "format": ","
+  },
+  "pilot_fold_6_hits": {
+    "value": 20,
+    "format": ","
+  },
+  "pilot_fold_6_train_pairs": {
+    "value": 365,
+    "format": ","
+  },
+  "pilot_fold_6_test_pairs": {
+    "value": 122,
+    "format": ","
+  },
+  "pilot_fold_7_quota": {
+    "value": 31,
+    "format": ","
+  },
+  "pilot_fold_7_hits": {
+    "value": 19,
+    "format": ","
+  },
+  "pilot_fold_7_train_pairs": {
+    "value": 365,
+    "format": ","
+  },
+  "pilot_fold_7_test_pairs": {
+    "value": 122,
+    "format": ","
+  },
+  "pilot_fold_8_quota": {
+    "value": 27,
+    "format": ","
+  },
+  "pilot_fold_8_hits": {
+    "value": 21,
+    "format": ","
+  },
+  "pilot_fold_8_train_pairs": {
+    "value": 487,
+    "format": ","
+  },
+  "pilot_fold_8_test_pairs": {
+    "value": 107,
+    "format": ","
+  },
+  "pilot_fold_9_quota": {
+    "value": 27,
+    "format": ","
+  },
+  "pilot_fold_9_hits": {
+    "value": 21,
+    "format": ","
+  },
+  "pilot_fold_9_train_pairs": {
+    "value": 487,
+    "format": ","
+  },
+  "pilot_fold_9_test_pairs": {
+    "value": 107,
+    "format": ","
+  },
+  "pilot_fold_10_quota": {
+    "value": 27,
+    "format": ","
+  },
+  "pilot_fold_10_hits": {
+    "value": 21,
+    "format": ","
+  },
+  "pilot_fold_10_train_pairs": {
+    "value": 487,
+    "format": ","
+  },
+  "pilot_fold_10_test_pairs": {
+    "value": 107,
+    "format": ","
+  },
+  "pilot_fold_11_quota": {
+    "value": 27,
+    "format": ","
+  },
+  "pilot_fold_11_hits": {
+    "value": 19,
+    "format": ","
+  },
+  "pilot_fold_11_train_pairs": {
+    "value": 487,
+    "format": ","
+  },
+  "pilot_fold_11_test_pairs": {
+    "value": 107,
+    "format": ","
+  },
+  "pilot_fold_12_quota": {
+    "value": 29,
+    "format": ","
+  },
+  "pilot_fold_12_hits": {
+    "value": 14,
+    "format": ","
+  },
+  "pilot_fold_12_train_pairs": {
+    "value": 594,
+    "format": ","
+  },
+  "pilot_fold_12_test_pairs": {
+    "value": 116,
+    "format": ","
+  },
+  "pilot_fold_13_quota": {
+    "value": 29,
+    "format": ","
+  },
+  "pilot_fold_13_hits": {
+    "value": 14,
+    "format": ","
+  },
+  "pilot_fold_13_train_pairs": {
+    "value": 594,
+    "format": ","
+  },
+  "pilot_fold_13_test_pairs": {
+    "value": 116,
+    "format": ","
+  },
+  "pilot_fold_14_quota": {
+    "value": 29,
+    "format": ","
+  },
+  "pilot_fold_14_hits": {
+    "value": 15,
+    "format": ","
+  },
+  "pilot_fold_14_train_pairs": {
+    "value": 594,
+    "format": ","
+  },
+  "pilot_fold_14_test_pairs": {
+    "value": 116,
+    "format": ","
+  },
+  "pilot_fold_15_quota": {
+    "value": 29,
+    "format": ","
+  },
+  "pilot_fold_15_hits": {
+    "value": 14,
+    "format": ","
+  },
+  "pilot_fold_15_train_pairs": {
+    "value": 594,
+    "format": ","
+  },
+  "pilot_fold_15_test_pairs": {
+    "value": 116,
+    "format": ","
+  },
+  "pilot_fold_16_quota": {
+    "value": 25,
+    "format": ","
+  },
+  "pilot_fold_16_hits": {
+    "value": 16,
+    "format": ","
+  },
+  "pilot_fold_16_train_pairs": {
+    "value": 710,
+    "format": ","
+  },
+  "pilot_fold_16_test_pairs": {
+    "value": 98,
+    "format": ","
+  },
+  "pilot_fold_17_quota": {
+    "value": 25,
+    "format": ","
+  },
+  "pilot_fold_17_hits": {
+    "value": 16,
+    "format": ","
+  },
+  "pilot_fold_17_train_pairs": {
+    "value": 710,
+    "format": ","
+  },
+  "pilot_fold_17_test_pairs": {
+    "value": 98,
+    "format": ","
+  },
+  "pilot_fold_18_quota": {
+    "value": 25,
+    "format": ","
+  },
+  "pilot_fold_18_hits": {
+    "value": 17,
+    "format": ","
+  },
+  "pilot_fold_18_train_pairs": {
+    "value": 710,
+    "format": ","
+  },
+  "pilot_fold_18_test_pairs": {
+    "value": 98,
+    "format": ","
+  },
+  "pilot_fold_19_quota": {
+    "value": 25,
+    "format": ","
+  },
+  "pilot_fold_19_hits": {
+    "value": 17,
+    "format": ","
+  },
+  "pilot_fold_19_train_pairs": {
+    "value": 710,
+    "format": ","
+  },
+  "pilot_fold_19_test_pairs": {
+    "value": 98,
+    "format": ","
+  }
+}
